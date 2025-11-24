@@ -46,8 +46,6 @@ Weatherly is a weather application that helps you dress smart and plan better ba
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-React-61dafb?logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Backend-Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
 </p>
