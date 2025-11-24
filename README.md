@@ -1,36 +1,53 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🌦 Weatherly 
+<h3 align="center">
+Your Smart Weather & Lifestyle Companion
+</h3>
 
-## Getting Started
+---
 
-First, run the development server:
+## About  
+Weatherly is a weather application that helps you dress smart and plan better based on weather conditions.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features  
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Visitor View  
+- See up to date weather forecast from cities **around the world**
+- See **recommended outfits** perfect for the current temperature
+- See **suggested activities** perfect for the current weather
+- Submit a suggestion of **your own activity** for your favorite weather!
+- See weekly forecast and the suggested activities for those days to plan ahead
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Admin View  
+- **Update** the name and type of clothing for outfit items
+- **Create** a new outfit item
+- **Delete** any exisiting outfit items
+- **Monitor** submitted activities suggested by visitors (approve/deny)
+- **Create** a new activity, suggested by Weatherly!
+- **Delete** any exisiting activities
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Technologies Used  
+- **Frontend:** React  
+- **Backend:** Express.js with Node.js  
+- **Database:** PostgreSQL (production)  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Authors & Contributors  
+| Name | Role | Contributions |
+|------|------|----------------|
+| Jane Rose Bandoy | Project Lead | Systems Analysis, Database Management, Full Stack Development |
+| Avi Grace Abellana | UI/UX Designer | Frontend Development |
+| Diana Jhenny Serrano | Database Management | Frontend Development, Database Management |
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React-61dafb?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Express.js-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Runtime-Node.js-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white" />
+</p>
