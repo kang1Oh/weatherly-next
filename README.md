@@ -30,9 +30,8 @@ Weatherly is a weather application that helps you dress smart and plan better ba
 ---
 
 ## Technologies Used  
-- **Frontend:** React  
-- **Backend:** Express.js with Node.js  
-- **Database:** PostgreSQL (production)  
+- **Full Stack Framework:** Next.js 
+- **Database:** PostgreSQL
 
 ---
 
